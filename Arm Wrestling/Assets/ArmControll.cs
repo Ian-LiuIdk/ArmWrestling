@@ -13,7 +13,7 @@ public class ArmControll : MonoBehaviour
     void Update()
     {
         // P1
-        if (Input.GetKeyDown(KeyCode.D))
+        if (Input.GetKeyDown(KeyCode.L))
             _rotation = Vector3.back;
 
         // P2
