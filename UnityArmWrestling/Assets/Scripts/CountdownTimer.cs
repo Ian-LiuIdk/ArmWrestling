@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class CountdownTimer : MonoBehaviour
 {
-    public GameObject Panel;
+    public GameObject PlayerKeyPanel;
     public TextMeshProUGUI countdownDisplay;
     public int countdownTime;
 
@@ -29,7 +29,7 @@ public class CountdownTimer : MonoBehaviour
         countdownDisplay.text = "GO";
         countdownDisplay.color = new Color32(0, 255, 15, 255);
         ArmControll.canMove = true;
-        Panel.SetActive(false);
+        PlayerKeyPanel.SetActive(false);
         yield return new WaitForSeconds(1f);
         countdownDisplay.gameObject.SetActive(false);
 
