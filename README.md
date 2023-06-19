@@ -7,7 +7,8 @@ ArmWrestling is a game that doesn't measure your strenght, but your clicking spe
 
 Clone this repository
 ```bash
-git clone [repository name]
+git clone [ssh repository link]
 ```
 Go to the repository and go to the folder "ArmWrestlingGame"
+
 Start the game by opening "Arm Wrestling.exe"
