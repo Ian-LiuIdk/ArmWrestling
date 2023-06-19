@@ -5,10 +5,10 @@ ArmWrestling is a game that doesn't measure your strenght, but your clicking spe
 
 # How to install and start
 
-Clone this repository
+1. Clone this repository in your selected location
 ```bash
-git clone [ssh repository link]
+git clone git@github.com:Ian-LiuIdk/ArmWrestling.git
 ```
-Go to the repository and go to the folder "ArmWrestlingGame"
+2. Go to the repository and go to the folder "ArmWrestlingGame"
 
-Start the game by opening "Arm Wrestling.exe"
+3. Start the game by opening "Arm Wrestling.exe"
