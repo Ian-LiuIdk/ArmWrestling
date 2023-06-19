@@ -1,7 +1,6 @@
 # ArmWrestling
 
-ArmWrestling is a game that doesn't measure your strenght, but your clicking speed
-(Best played with two people)
+ArmWrestling is a two player game that doesn't measure your strenght, but your clicking speed.
 
 # How to install and start
 
